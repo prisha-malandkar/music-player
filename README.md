@@ -4,7 +4,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href="(https://prisha-malandkar.github.io/music-player/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://prisha-malandkar.github.io/music-player/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
