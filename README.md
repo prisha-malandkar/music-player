@@ -4,7 +4,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href="https://codewithsadee.github.io/music-player/"><strong>➥ Live Demo</strong></a>
+  <a href="(https://prisha-malandkar.github.io/music-player/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -13,9 +13,7 @@
 ### Demo Screeshots
 
 ![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 ### Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
@@ -24,16 +22,16 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Music Player** locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macOS: 
 
 ```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
+sudo git clone https://github.com/prisha-malandkar/music-player.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/music-player.git
+git clone https://github.com/prisha-malandkar/music-player.git
 ```
 
 ### Contact
